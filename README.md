@@ -1,10 +1,6 @@
 # Week 3 Project 3: Build an Ask-the-Web Agent (Perplexity-style)
 
-## Files
 
-- `main.py` - complete Week 3 flow in one runnable script
-- `requirements.txt` - dependencies
-- `agent.py` / `tools.py` - earlier scaffold versions (optional)
 
 ## Setup
 
