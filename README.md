@@ -15,7 +15,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## Ollama Requirement (matching solution notebook)
+## Ollama Requirement 
 
 This script uses OpenAI-compatible Ollama endpoint:
 - base URL: `http://localhost:11434/v1`
