@@ -1,0 +1,4 @@
+ddgs
+openai
+langchain
+langchain-community
